@@ -1,0 +1,31 @@
+[
+  {
+    "folder_path": "/home/ubuntu/DSA",
+    "tag": "DSA"
+  },
+
+  {
+    "folder_path": "/home/ubuntu/CPP",
+    "tag": "CPP"
+  },
+
+  {
+    "folder_path": "/home/ubuntu/HLD",
+    "tag": "HLD"
+  },
+
+  {
+    "folder_path": "/home/ubuntu/LLD",
+    "tag": "LLD"
+  },
+
+  {
+    "folder_path": "/home/ubuntu/Theory/Networks",
+    "tag": "Networks"
+  },
+
+  {
+    "folder_path": "/home/ubuntu/Theory/OS",
+    "tag": "OS"
+  }
+]
